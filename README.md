@@ -1,5 +1,3 @@
----
-
 # **Lab 2: Data Manipulation with Java**
 
 **Course:** 953212 DB SYS & DB SYS DESIGN
